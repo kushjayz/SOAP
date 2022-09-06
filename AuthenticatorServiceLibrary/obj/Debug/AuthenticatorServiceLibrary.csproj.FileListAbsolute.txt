@@ -1,0 +1,7 @@
+C:\Users\Kushan\source\repos\AuthenticatorServiceLibrary\AuthenticatorServiceLibrary\bin\Debug\AuthenticatorServiceLibrary.dll.config
+C:\Users\Kushan\source\repos\AuthenticatorServiceLibrary\AuthenticatorServiceLibrary\bin\Debug\AuthenticatorServiceLibrary.dll
+C:\Users\Kushan\source\repos\AuthenticatorServiceLibrary\AuthenticatorServiceLibrary\bin\Debug\AuthenticatorServiceLibrary.pdb
+C:\Users\Kushan\source\repos\AuthenticatorServiceLibrary\AuthenticatorServiceLibrary\obj\Debug\AuthenticatorServiceLibrary.csprojAssemblyReference.cache
+C:\Users\Kushan\source\repos\AuthenticatorServiceLibrary\AuthenticatorServiceLibrary\obj\Debug\AuthenticatorServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kushan\source\repos\AuthenticatorServiceLibrary\AuthenticatorServiceLibrary\obj\Debug\AuthenticatorServiceLibrary.dll
+C:\Users\Kushan\source\repos\AuthenticatorServiceLibrary\AuthenticatorServiceLibrary\obj\Debug\AuthenticatorServiceLibrary.pdb
